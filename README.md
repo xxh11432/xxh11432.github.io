@@ -3,9 +3,9 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=console.log(%22Hello%2C%20World%22); 小熊同学祝您今天愉快!&center=true&size=27)](https://git.io/typing-svg)
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://cdn.jsdelivr.net/gh/xxh11432/xxh11432.github.io/assets/images/coding.gif" />
-  <source media="(prefers-color-scheme: light)" srcset="https://cdn.jsdelivr.net/gh/xxh11432/xxh11432.github.io/assets/images/developer.svg" height="225px" />
-  <img src="https://cdn.jsdelivr.net/gh/xxh11432/xxh11432.github.io/assets/images/coding.gif" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://xxh11432.github.io/assets/images/coding.gif" />
+  <source media="(prefers-color-scheme: light)" srcset="https://xxh11432.github.io/assets/images/developer.svg" height="225px" />
+  <img src="https://xxh11432.github.io/assets/images/coding.gif" />
 </picture>
 
 <div>&nbsp;</div>
@@ -16,9 +16,9 @@
 </div>
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://cdn.jsdelivr.net/gh/xxh11432/xxh11432.github.io/profile-snake-contrib/github-contribution-grid-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://cdn.jsdelivr.net/gh/xxh11432/xxh11432.github.io/profile-snake-contrib/github-contribution-grid-snake.svg" />
-  <img alt="github-snake" src="https://cdn.jsdelivr.net/gh/xxh11432/xxh11432.github.io/profile-snake-contrib/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://xxh11432.github.io/profile-snake-contrib/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://xxh11432.github.io/profile-snake-contrib/github-contribution-grid-snake.svg" />
+  <img alt="github-snake" src="https://xxh11432.github.io/profile-snake-contrib/github-contribution-grid-snake-dark.svg" />
 </picture>
 
 </div>
@@ -31,7 +31,7 @@
 
 ### 🤺 About Me
 
-<img align="right" width="88" src="https://cdn.jsdelivr.net/gh/xxh11432/xxh11432.github.io/assets/images/jobs.png" />
+<img align="right" width="88" src="https://xxh11432.github.io/assets/images/jobs.png" />
 
 <p>&emsp;&emsp;嗨，你好，我是小熊同学。热爱编程、摄影、读书、旅行。</p>
 <p>&emsp;&emsp;热爱计算机科学和 IT 互联网事业，希望能成为一名优秀的开发者。</p>
@@ -51,11 +51,11 @@
 
 </table>
 
-<img width="200%" src="https://cdn.jsdelivr.net/gh/xxh11432/xxh11432.github.io/assets/images/hr.gif" />
+<img width="200%" src="https://xxh11432.github.io/assets/images/hr.gif" />
 
 <div align="center">
 
-<img src="https://cdn.jsdelivr.net/gh/xxh11432/xxh11432.github.io/assets/images/man_run.png" width="250" height="250" />
+<img src="https://xxh11432.github.io/assets/images/man_run.png" width="250" height="250" />
 
 <div>
   <picture>
@@ -65,15 +65,15 @@
   </picture>
 </div>
 
-<img align="left" width="150" src="https://cdn.jsdelivr.net/gh/xxh11432/xxh11432.github.io/assets/images/left.png" />
+<img align="left" width="150" src="https://xxh11432.github.io/assets/images/left.png" />
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=xxh11432&theme=dark&hide_border=true" />
   <source media="(prefers-color-scheme: light)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=xxh11432&theme=light&hide_border=true" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=xxh11432&theme=dark&hide_border=true" />
 </picture>
-<img align="right" width="150"  src="https://cdn.jsdelivr.net/gh/xxh11432/xxh11432.github.io/assets/images/right.png" />
+<img align="right" width="150"  src="https://xxh11432.github.io/assets/images/right.png" />
 
-<img src="https://cdn.jsdelivr.net/gh/xxh11432/xxh11432.github.io/github-metrics/base.svg" />
+<img src="https://xxh11432.github.io/github-metrics/base.svg" />
 
 <table>
   <tr>
@@ -88,11 +88,11 @@
 
 </div>
 
-<img width="200%" src="https://cdn.jsdelivr.net/gh/xxh11432/xxh11432.github.io/assets/images/hr.gif" />
+<img width="200%" src="https://xxh11432.github.io/assets/images/hr.gif" />
 
 <div align="center" >
 
-<img src="https://cdn.jsdelivr.net/gh/xxh11432/xxh11432.github.io/assets/images/mb.png" width="250" height="250" />
+<img src="https://xxh11432.github.io/assets/images/mb.png" width="250" height="250" />
 
 <div><img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" /><br/></div>
 
@@ -100,11 +100,11 @@
 
 </div>
 
-<img width="200%" src="https://cdn.jsdelivr.net/gh/xxh11432/xxh11432.github.io/assets/images/hr.gif" />
+<img width="200%" src="https://xxh11432.github.io/assets/images/hr.gif" />
 
 <div align="center" >
 
-<img src="https://cdn.jsdelivr.net/gh/xxh11432/xxh11432.github.io/assets/images/man.png" width="250" height="250" />
+<img src="https://xxh11432.github.io/assets/images/man.png" width="250" height="250" />
 
 ![HTML5 Badge](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=fff&style=flat)
 ![CSS3 Badge](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=fff&style=flat)
@@ -154,59 +154,59 @@
 <img src="https://techstack-generator.vercel.app/nginx-icon.svg" alt="icon" width="65" style="width: 65px; height: 65px; margin-right: 50px; margin-bottom: 0px;" /><br>
 
 <!-- gif -->
-<img height="100" width="100" src="https://cdn.jsdelivr.net/gh/xxh11432/xxh11432.github.io/assets/images/html.webp">
-<img height="100" width="100" src="https://cdn.jsdelivr.net/gh/xxh11432/xxh11432.github.io/assets/images/cssgif.webp">
-<img height="100" width="100" src="https://cdn.jsdelivr.net/gh/xxh11432/xxh11432.github.io/assets/images/vscode.webp">
-<img height="100" width="100" src="https://cdn.jsdelivr.net/gh/xxh11432/xxh11432.github.io/assets/images/react.webp">
-<img height="95" width="95" src="https://cdn.jsdelivr.net/gh/xxh11432/xxh11432.github.io/assets/images/vue.webp">
-<img height="100" width="100" src="https://cdn.jsdelivr.net/gh/xxh11432/xxh11432.github.io/assets/images/python.webp">
-<img height="100" width="100" src="https://cdn.jsdelivr.net/gh/xxh11432/xxh11432.github.io/assets/images/js.webp">
-<img height="100" width="100" src="https://cdn.jsdelivr.net/gh/xxh11432/xxh11432.github.io/assets/images/github.webp">
+<img height="100" width="100" src="https://xxh11432.github.io/assets/images/html.webp">
+<img height="100" width="100" src="https://xxh11432.github.io/assets/images/cssgif.webp">
+<img height="100" width="100" src="https://xxh11432.github.io/assets/images/vscode.webp">
+<img height="100" width="100" src="https://xxh11432.github.io/assets/images/react.webp">
+<img height="95" width="95" src="https://xxh11432.github.io/assets/images/vue.webp">
+<img height="100" width="100" src="https://xxh11432.github.io/assets/images/python.webp">
+<img height="100" width="100" src="https://xxh11432.github.io/assets/images/js.webp">
+<img height="100" width="100" src="https://xxh11432.github.io/assets/images/github.webp">
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://cdn.jsdelivr.net/gh/xxh11432/xxh11432.github.io/profile-3d-contrib/profile-night-rainbow.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://cdn.jsdelivr.net/gh/xxh11432/xxh11432.github.io/profile-3d-contrib/profile-gitblock.svg" />
-  <img src="https://cdn.jsdelivr.net/gh/xxh11432/xxh11432.github.io/profile-3d-contrib/profile-night-rainbow.svg" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://xxh11432.github.io/profile-3d-contrib/profile-night-rainbow.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://xxh11432.github.io/profile-3d-contrib/profile-gitblock.svg" />
+  <img src="https://xxh11432.github.io/profile-3d-contrib/profile-night-rainbow.svg" />
 </picture>
 
 </div>
 
-<img width="200%" src="https://cdn.jsdelivr.net/gh/xxh11432/xxh11432.github.io/assets/images/hr.gif" />
+<img width="200%" src="https://xxh11432.github.io/assets/images/hr.gif" />
 
 <div align="center">
 
-<img width="36%" src="https://cdn.jsdelivr.net/gh/xxh11432/xxh11432.github.io/assets/images/githubgif.gif" />
+<img width="36%" src="https://xxh11432.github.io/assets/images/githubgif.gif" />
 
 <table>
   <tr>
-    <td><img src="https://cdn.jsdelivr.net/gh/xxh11432/xxh11432.github.io/github-metrics/people.followers.svg" alt="people.followers" /></td>
+    <td><img src="https://xxh11432.github.io/github-metrics/people.followers.svg" alt="people.followers" /></td>
   </tr>
 </table>
 
 <table>
   <tr>
-    <td><img src="https://cdn.jsdelivr.net/gh/xxh11432/xxh11432.github.io/github-metrics/languages.indepth.svg" alt="languages.indepth" /></td>
-    <td><img src="https://cdn.jsdelivr.net/gh/xxh11432/xxh11432.github.io/github-metrics/reactions.svg" alt="reactions" /></td>
+    <td><img src="https://xxh11432.github.io/github-metrics/languages.indepth.svg" alt="languages.indepth" /></td>
+    <td><img src="https://xxh11432.github.io/github-metrics/reactions.svg" alt="reactions" /></td>
   </tr>
   <tr>
-    <td><img src="https://cdn.jsdelivr.net/gh/xxh11432/xxh11432.github.io/github-metrics/followup.indepth.svg" alt="followup.indepth" /></td>
-    <td><img src="https://cdn.jsdelivr.net/gh/xxh11432/xxh11432.github.io/github-metrics/repositories.pinned.svg" alt="repositories.pinned" /></td>
+    <td><img src="https://xxh11432.github.io/github-metrics/followup.indepth.svg" alt="followup.indepth" /></td>
+    <td><img src="https://xxh11432.github.io/github-metrics/repositories.pinned.svg" alt="repositories.pinned" /></td>
   </tr>
   <tr>
-    <td><img src="https://cdn.jsdelivr.net/gh/xxh11432/xxh11432.github.io/github-metrics/wakatime.svg" alt="wakatime" /></td>
-    <td><img src="https://cdn.jsdelivr.net/gh/xxh11432/xxh11432.github.io/github-metrics/stackoverflow.svg" alt="stackoverflow" /></td>
+    <td><img src="https://xxh11432.github.io/github-metrics/wakatime.svg" alt="wakatime" /></td>
+    <td><img src="https://xxh11432.github.io/github-metrics/stackoverflow.svg" alt="stackoverflow" /></td>
   </tr>
   <tr>
-    <td><img src="https://cdn.jsdelivr.net/gh/xxh11432/xxh11432.github.io/github-metrics/stars.svg" alt="stars" /></td>
-    <td><img src="https://cdn.jsdelivr.net/gh/xxh11432/xxh11432.github.io/github-metrics/stargazers.chartist.svg" alt="stargazers.chartist" /></td>
+    <td><img src="https://xxh11432.github.io/github-metrics/stars.svg" alt="stars" /></td>
+    <td><img src="https://xxh11432.github.io/github-metrics/stargazers.chartist.svg" alt="stargazers.chartist" /></td>
   </tr>
   <tr>
-    <td><img src="https://cdn.jsdelivr.net/gh/xxh11432/xxh11432.github.io/github-metrics/isocalendar.fullyear.svg" alt="isocalendar.fullyear" /></td>
-    <td><img src="https://cdn.jsdelivr.net/gh/xxh11432/xxh11432.github.io/github-metrics/calendar.full.svg" alt="calendar.full" /></td>
+    <td><img src="https://xxh11432.github.io/github-metrics/isocalendar.fullyear.svg" alt="isocalendar.fullyear" /></td>
+    <td><img src="https://xxh11432.github.io/github-metrics/calendar.full.svg" alt="calendar.full" /></td>
   </tr>
 </table>
 
-<img src="https://cdn.jsdelivr.net/gh/xxh11432/xxh11432.github.io/assets/images/icon.png" />
+<img src="https://xxh11432.github.io/assets/images/icon.png" />
 </div>
 
 </div>
