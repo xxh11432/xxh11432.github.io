@@ -15,12 +15,6 @@
   <img src="https://komarev.com/ghpvc/?username=xxh11432&label=Views&color=orange&style=flat" alt="访问量统计" />
 </div>
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://xxh11432.github.io/profile-snake-contrib/github-contribution-grid-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://xxh11432.github.io/profile-snake-contrib/github-contribution-grid-snake.svg" />
-  <img alt="github-snake" src="https://xxh11432.github.io/profile-snake-contrib/github-contribution-grid-snake-dark.svg" />
-</picture>
-
 </div>
 
 #  🙋 Hello
@@ -72,8 +66,6 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=xxh11432&theme=dark&hide_border=true" />
 </picture>
 <img align="right" width="150"  src="https://xxh11432.github.io/assets/images/right.png" />
-
-<img src="https://xxh11432.github.io/github-metrics/base.svg" />
 
 <table>
   <tr>
@@ -163,12 +155,6 @@
 <img height="100" width="100" src="https://xxh11432.github.io/assets/images/js.webp">
 <img height="100" width="100" src="https://xxh11432.github.io/assets/images/github.webp">
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://xxh11432.github.io/profile-3d-contrib/profile-night-rainbow.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://xxh11432.github.io/profile-3d-contrib/profile-gitblock.svg" />
-  <img src="https://xxh11432.github.io/profile-3d-contrib/profile-night-rainbow.svg" />
-</picture>
-
 </div>
 
 <img width="200%" src="https://xxh11432.github.io/assets/images/hr.gif" />
@@ -176,35 +162,6 @@
 <div align="center">
 
 <img width="36%" src="https://xxh11432.github.io/assets/images/githubgif.gif" />
-
-<table>
-  <tr>
-    <td><img src="https://xxh11432.github.io/github-metrics/people.followers.svg" alt="people.followers" /></td>
-  </tr>
-</table>
-
-<table>
-  <tr>
-    <td><img src="https://xxh11432.github.io/github-metrics/languages.indepth.svg" alt="languages.indepth" /></td>
-    <td><img src="https://xxh11432.github.io/github-metrics/reactions.svg" alt="reactions" /></td>
-  </tr>
-  <tr>
-    <td><img src="https://xxh11432.github.io/github-metrics/followup.indepth.svg" alt="followup.indepth" /></td>
-    <td><img src="https://xxh11432.github.io/github-metrics/repositories.pinned.svg" alt="repositories.pinned" /></td>
-  </tr>
-  <tr>
-    <td><img src="https://xxh11432.github.io/github-metrics/wakatime.svg" alt="wakatime" /></td>
-    <td><img src="https://xxh11432.github.io/github-metrics/stackoverflow.svg" alt="stackoverflow" /></td>
-  </tr>
-  <tr>
-    <td><img src="https://xxh11432.github.io/github-metrics/stars.svg" alt="stars" /></td>
-    <td><img src="https://xxh11432.github.io/github-metrics/stargazers.chartist.svg" alt="stargazers.chartist" /></td>
-  </tr>
-  <tr>
-    <td><img src="https://xxh11432.github.io/github-metrics/isocalendar.fullyear.svg" alt="isocalendar.fullyear" /></td>
-    <td><img src="https://xxh11432.github.io/github-metrics/calendar.full.svg" alt="calendar.full" /></td>
-  </tr>
-</table>
 
 <img src="https://xxh11432.github.io/assets/images/icon.png" />
 </div>
