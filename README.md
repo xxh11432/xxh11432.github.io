@@ -1,7 +1,5 @@
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=console.log(%22Hello%2C%20World%22); 小熊同学祝您今天愉快!&center=true&size=27)](https://git.io/typing-svg)
-
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://xxh11432.github.io/assets/images/coding.gif" />
   <source media="(prefers-color-scheme: light)" srcset="https://xxh11432.github.io/assets/images/developer.svg" height="225px" />
@@ -49,54 +47,14 @@
 
 <div align="center">
 
-<img src="https://xxh11432.github.io/assets/images/man_run.png" width="250" height="250" />
-
-<div>
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://readme-jokes.vercel.app/api?hideBorder&bgColor=%23121212" />
-    <source media="(prefers-color-scheme: light)" srcset="https://readme-jokes.vercel.app/api?hideBorder&bgColor=%ffffff" />
-    <img alt="Jokes Card" src="https://readme-jokes.vercel.app/api?hideBorder&bgColor=%23121212" />
-  </picture>
-</div>
-
-<img align="left" width="150" src="https://xxh11432.github.io/assets/images/left.png" />
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=xxh11432&theme=dark&hide_border=true" />
-  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=xxh11432&theme=light&hide_border=true" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=xxh11432&theme=dark&hide_border=true" />
-</picture>
-<img align="right" width="150"  src="https://xxh11432.github.io/assets/images/right.png" />
-
-<table>
-  <tr>
-    <td>
-      <picture>
-        <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=xxh11432&theme=xcode&bg_color=FF000000&hide_border=true" />
-        <source media="(prefers-color-scheme: light)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=xxh11432&theme=xcode&bg_color=FF000000&color=000000&hide_border=true" />
-        <img src="https://github-readme-activity-graph.vercel.app/graph?username=xxh11432&theme=xcode&bg_color=FF000000&hide_border=true" />
-      </picture>
-  </tr>
-</table>
-
 </div>
 
 <img width="200%" src="https://xxh11432.github.io/assets/images/hr.gif" />
 
 <div align="center" >
 
-<img src="https://xxh11432.github.io/assets/images/mb.png" width="250" height="250" />
-
-<div><img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" /><br/></div>
-
-<!-- <div><img src="https://github-profile-trophy.vercel.app/?username=xxh11432&theme=gruvbox&row=1&column=7&no-frame=true&no-bg=true" /><br/></div> -->
-
-</div>
-
-<img width="200%" src="https://xxh11432.github.io/assets/images/hr.gif" />
-
 <div align="center" >
 
-<img src="https://xxh11432.github.io/assets/images/man.png" width="250" height="250" />
 
 ![HTML5 Badge](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=fff&style=flat)
 ![CSS3 Badge](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=fff&style=flat)
@@ -163,7 +121,6 @@
 
 <img width="36%" src="https://xxh11432.github.io/assets/images/githubgif.gif" />
 
-<img src="https://xxh11432.github.io/assets/images/icon.png" />
 </div>
 
 </div>
