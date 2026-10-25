@@ -4,7 +4,7 @@
 <meta charset="UTF-8" />
 <meta name="viewport" content="width=device-width, initial-scale=1.0" />
 <title>小熊同学 · 个人主页</title>
-<meta name="description" content="嗨，我是小熊同学，热爱编程、摄影、读书与旅行。" />
+<meta name="description" content="小熊同学的个人主页：Java 后端工程师，开源项目 GitStarts（www.gitstars.cn）作者。" />
 <link rel="icon" href="https://xxh11432.github.io/assets/images/jobs.png" />
 <style>
   :root {
@@ -375,6 +375,89 @@
   .skill svg { width: 52px; height: 52px; }
   .skill span { font-size: 0.9rem; color: var(--muted); }
 
+  /* ---- 在线产品 ---- */
+  .product-card {
+    display: grid;
+    grid-template-columns: 1.02fr 1fr;
+    gap: 34px;
+    align-items: center;
+    padding: 34px;
+    background: linear-gradient(135deg, rgba(124,92,255,0.12), rgba(255,79,163,0.08));
+    border: 1px solid var(--border);
+    border-radius: var(--radius);
+    backdrop-filter: blur(10px);
+  }
+  .live-pill {
+    display: inline-flex;
+    align-items: center;
+    gap: 8px;
+    padding: 6px 14px;
+    border-radius: 999px;
+    background: rgba(52, 211, 153, 0.1);
+    border: 1px solid rgba(52, 211, 153, 0.35);
+    color: #6ee7b7;
+    font-size: 0.78rem;
+    font-weight: 600;
+    margin-bottom: 16px;
+  }
+  .live-pill .pulse {
+    width: 8px; height: 8px; border-radius: 50%;
+    background: #34d399;
+    animation: pulse 2s infinite;
+  }
+  .product-info h3 { font-size: clamp(1.4rem, 3vw, 1.9rem); font-weight: 850; margin-bottom: 12px; }
+  .product-info p { color: var(--muted); font-size: 0.95rem; }
+  .product-points { list-style: none; margin: 18px 0; display: grid; gap: 10px; }
+  .product-points li { color: var(--muted); font-size: 0.9rem; padding-left: 20px; position: relative; }
+  .product-points li::before {
+    content: "";
+    position: absolute;
+    left: 4px; top: 0.55em;
+    width: 7px; height: 7px;
+    border-radius: 50%;
+    background: var(--grad);
+  }
+  .product-points strong { color: var(--text); }
+  .product-stats { display: grid; grid-template-columns: repeat(4, 1fr); gap: 10px; margin: 20px 0 26px; }
+  .product-stats div {
+    background: var(--surface);
+    border: 1px solid var(--border);
+    border-radius: 12px;
+    padding: 12px 8px;
+    text-align: center;
+  }
+  .product-stats b {
+    display: block;
+    font-size: 1.15rem;
+    background: var(--grad);
+    -webkit-background-clip: text;
+    background-clip: text;
+    -webkit-text-fill-color: transparent;
+  }
+  .product-stats span { color: var(--muted); font-size: 0.72rem; }
+  .product-shot {
+    position: relative;
+    display: block;
+    border-radius: 16px;
+    overflow: hidden;
+    border: 1px solid var(--border);
+    box-shadow: var(--shadow);
+  }
+  .product-shot img { display: block; width: 100%; height: auto; transition: transform 0.4s; }
+  .product-shot:hover img { transform: scale(1.03); }
+  .shot-hint {
+    position: absolute;
+    right: 14px; bottom: 14px;
+    padding: 8px 16px;
+    border-radius: 999px;
+    background: rgba(11,16,32,0.85);
+    border: 1px solid var(--border);
+    color: var(--cyan);
+    font-size: 0.8rem;
+    font-weight: 600;
+    backdrop-filter: blur(8px);
+  }
+
   /* ---- 开源项目 ---- */
   .project-grid {
     display: grid;
@@ -416,6 +499,8 @@
     font-size: 0.75rem;
   }
   .project-link { display: inline-block; margin-top: 18px; color: var(--cyan); font-size: 0.85rem; font-weight: 600; }
+  .project-links { display: flex; gap: 20px; flex-wrap: wrap; }
+  .project-links .project-link:first-child { color: var(--pink); }
 
   /* ---- GitHub CTA ---- */
   .github-card {
@@ -473,6 +558,9 @@
     .tags { justify-content: center; }
     .nav-links { display: none; }
     .float-chip { display: none; }
+    .product-card { grid-template-columns: 1fr; padding: 24px; }
+    .product-shot { order: -1; }
+    .product-stats { grid-template-columns: repeat(2, 1fr); }
   }
 </style>
 </head>
@@ -487,6 +575,7 @@
       <a class="logo" href="#top"><span class="dot"></span>小熊同学</a>
       <div class="nav-links">
         <a href="#about">关于</a>
+        <a href="#product">产品</a>
         <a href="#skills">技术栈</a>
         <a href="#projects">项目</a>
         <a href="#github">GitHub</a>
@@ -553,6 +642,43 @@
       </div>
     </section>
 
+    <section id="product" class="reveal">
+      <div class="section-head">
+        <div class="kicker">Live Product</div>
+        <h2>在线产品</h2>
+      </div>
+      <div class="product-card">
+        <div class="product-info">
+          <span class="live-pill"><span class="pulse"></span>已上线 · www.gitstars.cn</span>
+          <h3>GitStarts · 开源方案决策平台</h3>
+          <p>
+            有个想法，先查开源档案。用自然语言描述需求，拿到高契合度候选；AI 深读 README，
+            按 8 个维度做横向对比，每个结论都附证据，证据不足就明说「信息不足」。
+          </p>
+          <ul class="product-points">
+            <li><strong>需求匹配</strong>：硬条件过滤 → 向量召回 → LLM 重排，契合度四分项可解释</li>
+            <li><strong>AI 深读</strong>：README 与 manifest 分块入索引，回答带段落级证据</li>
+            <li><strong>逐格对比</strong>：8 维矩阵、证据抽屉、Markdown 导出与只读分享</li>
+            <li><strong>工程化</strong>：SSE 流式响应、每日配额、成本看板，2 核 2G 可稳定运行</li>
+          </ul>
+          <div class="product-stats">
+            <div><b>2,000</b><span>收录仓库</span></div>
+            <div><b>65</b><span>覆盖语言</span></div>
+            <div><b>7</b><span>聚合平台</span></div>
+            <div><b>8</b><span>对比维度</span></div>
+          </div>
+          <div class="cta">
+            <a class="btn btn-primary" href="https://www.gitstars.cn/" target="_blank" rel="noopener">访问 GitStarts</a>
+            <a class="btn btn-ghost" href="https://github.com/xxh11432/GitStarts" target="_blank" rel="noopener">查看源码</a>
+          </div>
+        </div>
+        <a class="product-shot" href="https://www.gitstars.cn/" target="_blank" rel="noopener">
+          <img src="./assets/images/gitstars-home.png" alt="GitStarts 首页：有个想法，先查开源档案" loading="lazy" />
+          <span class="shot-hint">在线体验 →</span>
+        </a>
+      </div>
+    </section>
+
     <section id="skills" class="reveal">
       <div class="section-head">
         <div class="kicker">Tech Stack</div>
@@ -576,6 +702,34 @@
         <h2>开源项目</h2>
       </div>
       <div class="project-grid">
+        <div class="project">
+          <div class="project-head">
+            <span class="project-icon">
+              <svg viewBox="0 0 16 16"><path d="M8 1.1l2.09 4.24 4.68.68-3.39 3.3.8 4.66L8 11.78l-4.18 2.2.8-4.66-3.39-3.3 4.68-.68z"/></svg>
+            </span>
+            <div class="project-title">
+              <h3>GitStarts</h3>
+              <div class="project-sub">开源方案匹配与对比平台 · 已上线</div>
+            </div>
+          </div>
+          <p>
+            从「GitHub 热门仓库聚合」升级为「输入想法 → 匹配项目 → AI 深读 → 横向对比 → 决策沉淀」：
+            混合召回给出可解释的契合度分解，8 维逐格证据对比，收藏 / 历史 / 分享 / 导出完整沉淀选型过程。
+          </p>
+          <div class="project-tags">
+            <span>Java 17</span>
+            <span>Spring Boot 3.5</span>
+            <span>Next.js 16</span>
+            <span>FastAPI · LangGraph</span>
+            <span>Qdrant</span>
+            <span>MySQL · Redis</span>
+            <span>Docker Compose</span>
+          </div>
+          <div class="project-links">
+            <a class="project-link" href="https://www.gitstars.cn/" target="_blank" rel="noopener">在线体验 →</a>
+            <a class="project-link" href="https://github.com/xxh11432/GitStarts" target="_blank" rel="noopener">查看仓库 →</a>
+          </div>
+        </div>
         <a class="project" href="https://github.com/xxh11432/code-review-skill" target="_blank" rel="noopener">
           <div class="project-head">
             <span class="project-icon">
@@ -592,26 +746,6 @@
             <span>Code Review</span>
             <span>误报过滤</span>
             <span>MIT</span>
-          </div>
-          <span class="project-link">查看仓库 →</span>
-        </a>
-        <a class="project" href="https://github.com/xxh11432/GitStarts" target="_blank" rel="noopener">
-          <div class="project-head">
-            <span class="project-icon">
-              <svg viewBox="0 0 16 16"><path d="M8 1.1l2.09 4.24 4.68.68-3.39 3.3.8 4.66L8 11.78l-4.18 2.2.8-4.66-3.39-3.3 4.68-.68z"/></svg>
-            </span>
-            <div class="project-title">
-              <h3>GitStarts</h3>
-              <div class="project-sub">GitHub Stars 聚合站</div>
-            </div>
-          </div>
-          <p>自动采集 GitHub 热门仓库并按 star 排行，支持分类、语言与标签筛选；Spring Boot 提供接口，Next.js SSR 渲染页面，Docker Compose 一键部署。</p>
-          <div class="project-tags">
-            <span>Java 17</span>
-            <span>Spring Boot</span>
-            <span>MyBatis-Plus</span>
-            <span>Next.js</span>
-            <span>MySQL · Redis</span>
           </div>
           <span class="project-link">查看仓库 →</span>
         </a>
@@ -634,14 +768,14 @@
           <svg viewBox="0 0 16 16"><path d="M8 0C3.58 0 0 3.58 0 8c0 3.54 2.29 6.53 5.47 7.59.4.07.55-.17.55-.38 0-.19-.01-.82-.01-1.49-2.01.37-2.53-.49-2.69-.94-.09-.23-.48-.94-.82-1.13-.28-.15-.68-.52-.01-.53.63-.01 1.08.58 1.23.82.72 1.21 1.87.87 2.33.66.07-.52.28-.87.51-1.07-1.78-.2-3.64-.89-3.64-3.95 0-.87.31-1.59.82-2.15-.08-.2-.36-1.02.08-2.12 0 0 .67-.21 2.2.82.64-.18 1.32-.27 2-.27s1.36.09 2 .27c1.53-1.04 2.2-.82 2.2-.82.44 1.1.16 1.92.08 2.12.51.56.82 1.27.82 2.15 0 3.07-1.87 3.75-3.65 3.95.29.25.54.73.54 1.48 0 1.07-.01 1.93-.01 2.2 0 .21.15.46.55.38A8.01 8.01 0 0 0 16 8c0-4.42-3.58-8-8-8z"/></svg>
         </a>
       </div>
-      <p>© 2026 小熊同学 · 用 <span class="heart">♥</span> 构建 · <a href="https://github.com/xxh11432/xxh11432.github.io" target="_blank" rel="noopener">本仓库</a></p>
+      <p>© 2026 小熊同学 · 用 <span class="heart">♥</span> 构建 · <a href="https://www.gitstars.cn/" target="_blank" rel="noopener">GitStarts</a> · <a href="https://github.com/xxh11432/xxh11432.github.io" target="_blank" rel="noopener">本仓库</a></p>
     </div>
   </footer>
 
 <script>
   // 打字机效果
   (function () {
-    const phrases = ["Java 后端开发", "Spring Boot 爱好者", "Redis & MySQL", "喜欢旅行"];
+    const phrases = ["Java 后端开发", "Spring Boot 爱好者", "Redis & MySQL", "GitStarts 作者", "喜欢旅行"];
     const el = document.getElementById("typed");
     let pi = 0, ci = 0, deleting = false;
 
